@@ -14,7 +14,16 @@ To temporarily toggle dark mode on/off, click on the button in the bottom left c
 
 The global toggle in the option menu can be used to disable/enable the extension.
 
-\*May be unstable on Chrome, Edge, and Opera
+### Safari Extension
+
+This fork is intended to provide a Safari version of this extension. 
+
+Primarily, this was converted via the Safari Web Extension Converter located at this [URL](https://developer.apple.com/documentation/safariservices/safari_web_extensions/converting_a_web_extension_for_safari). Please note that you will have to pre-approve all docs.google.com URLs in order for it to work.
+
+#### Preview
+![DocsAfterDark running on Safari 17](img/safari.png)
+
+\*May be unstable on Chrome, Edge, Opera, **and Safari.**
 
 Available on [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/docsafterdark/), [Chrome Web Store](https://chrome.google.com/webstore/detail/docsafterdark/pihphjfnfjmdbhakhjifipfdgbpenobg), [Edge Add-Ons](https://microsoftedge.microsoft.com/addons/detail/docsafterdark/bbpgjhhjjphjmabmohnkkpmelbfpgfna), and [Opera](https://addons.opera.com/en/extensions/details/docsafterdark/).
 
