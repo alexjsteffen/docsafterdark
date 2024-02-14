@@ -1,5 +1,7 @@
 # DocsAfterDark
 
+_Please note that this is a fork for Safari support_
+
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/pihphjfnfjmdbhakhjifipfdgbpenobg?color=%23262626%20)](https://chrome.google.com/webstore/detail/docsafterdark/pihphjfnfjmdbhakhjifipfdgbpenobg) [![Mozilla Add-on](https://img.shields.io/amo/v/docsafterdark?color=%23262626%20)](https://addons.mozilla.org/en-US/firefox/addon/docsafterdark/)
 
 DocsAfterDark relieves eye-strain from the Google Docs experience with a focus on functionality and artful design.
